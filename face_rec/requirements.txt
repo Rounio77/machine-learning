@@ -1,0 +1,6 @@
+cmax
+dlib
+face-recognition
+os
+opencv-python
+cv2
